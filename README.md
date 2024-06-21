@@ -1,10 +1,10 @@
-# John Doe - Data Analyst Portfolio
+# Otmane Khalfaoui - Data Analyst Portfolio
 
 Welcome to my data analyst portfolio! This portfolio showcases my projects, skills, and accomplishments. Below you will find information about me, my projects, and how to contact me.
 
 ## About Me
 
-Hello! I'm John Doe, a data analyst with a passion for turning data into actionable insights. I have a background in geology, which has provided me with a unique perspective on data analysis. I specialize in geospatial data analysis, predictive modeling, and data visualization.
+Hello! I'm Otmane Khalfaoui, a data analyst with a passion for turning data into actionable insights. I have a background in geology, which has provided me with a unique perspective on data analysis. I specialize in geospatial data analysis, predictive modeling, and data visualization.
 
 ## Projects
 
@@ -13,7 +13,7 @@ Hello! I'm John Doe, a data analyst with a passion for turning data into actiona
 
 ## Contact
 
-- **Email:** john.doe@example.com
-- **LinkedIn:** [John Doe](https://www.linkedin.com/in/johndoe/)
+- **Email:** khalfaoui.otmane@gmail.com
+- **LinkedIn:**
 
 Feel free to explore my portfolio and reach out if you have any questions or would like to discuss potential opportunities.
